@@ -1,5 +1,5 @@
 # Simple-Calculator
-This is a simple calculator which performs simple mathematical operations like addition, subtraction, multiplication, division, etc. 
+This is a responsive calculator which performs simple mathematical operations like addition, subtraction, multiplication, division, etc. 
 
 <ul> <li><h3>Tech Stack Used</h3></li></ul>
 &emsp;&emsp;
